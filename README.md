@@ -15,3 +15,6 @@
 <h3>Step 6:- Slicer and KPI</h3>
 <h4>In Slicers I visualize categories for more detail, and in KPIs I visualize profit on sales in the state<h4>
 <h2>Final Result</h2>
+
+![Superstore Analysis](https://user-images.githubusercontent.com/70066441/212122497-65caf649-312b-45e5-9a8e-cfb72ece1e97.png)
+
