@@ -1,4 +1,4 @@
-# Superstore-Analysis-Dashboard
+# Superstore Analysis Dashboard
 <h2>Introduction</h2>
 <h4>In this Powerbi dashboard I analyzes the sales details of a US superstore. Where Scatter plots, maps, tables, KPIs, and pie charts are used here to analyze sales in terms of profit.<h4>
 <h2>Steps</h2>
