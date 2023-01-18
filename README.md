@@ -1,6 +1,6 @@
 # Superstore Analysis Dashboard
 <h2>Introduction</h2>
-<h4>In this Powerbi dashboard I analyzes the sales details of a US superstore. Where Scatter plots, maps, tables, KPIs, and pie charts are used here to analyze sales in terms of profit.<h4>
+<h4>Using Powerbi to analyze the sales details of a USA superstore, I was able to draw meaningful insights. Through the use of scatter plots, maps, tables, KPIs and pie charts, I was able to analyze the sales in terms of profit. This allowed me to provide valuable insights for the business and to plan for future strategies. By leveraging Powerbi and applying it to analyze sales, I was able to drive better decisions.<h4>
 <h2>Steps</h2>
 <h3>Step 1:- Cards</h3>
 <h4>First, I used the Card to find the total number of customers, maximum sales, Overall Profit and Region<h4>
